@@ -50,14 +50,14 @@
 	linkURL="images/coha1.jpg"
 	linkTarget="_blank">
 	<title>Cooper's Hawk - Cambridge, MA</title>
-	<caption><![CDATA[An adult female Cooper's Hawk  in Cambridge, MA]]></caption>	
+	<caption><![CDATA[Adult female Cooper's Hawk in Cambridge, MA]]></caption>	
   </image>   
   <image imageURL="images/coha2.jpg"
 	thumbURL="thumbs/coha2.jpg"
 	linkURL="images/coha2.jpg"
 	linkTarget="_blank">
 	<title>Cooper's Hawk  - Cambridge, MA</title>
-	<caption><![CDATA[An adult female Cooper's Hawk  in Cambridge, MA]]></caption>	
+	<caption><![CDATA[Adult female Cooper's Hawk in Cambridge, MA]]></caption>	
   </image>   
   <image imageURL="images/feha1.jpg"
 	thumbURL="thumbs/feha1.jpg"
@@ -248,18 +248,18 @@
 	<title>Swallow-tailed Kite - Sanibel Island, FL</title>
 	<caption><![CDATA[Adult Swallow-tailed Kite in Sanibel Island, FL]]></caption>	
   </image>
-  <image imageURL="images/FILE.jpg"
-	thumbURL="thumbs/FILE.jpg"
-	linkURL="images/FILE.jpg"
+  <image imageURL="images/swha1.jpg"
+	thumbURL="thumbs/swha1.jpg"
+	linkURL="images/swha1.jpg"
 	linkTarget="_blank">
-	<title>BIRD - LOCATION, MA</title>
-	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+	<title>Swainson's Hawk - Promontory, UT</title>
+	<caption><![CDATA[Adult intermediate morph Swainson's Hawk in Promontory, UT]]></caption>	
   </image>  
-  <image imageURL="images/FILE.jpg"
-	thumbURL="thumbs/FILE.jpg"
-	linkURL="images/FILE.jpg"
+  <image imageURL="images/tuvu1.jpg"
+	thumbURL="thumbs/tuvu1.jpg"
+	linkURL="images/tuvu1.jpg"
 	linkTarget="_blank">
-	<title>BIRD - LOCATION, MA</title>
-	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+	<title>Turkey Vulture - Ashburnham, MA</title>
+	<caption><![CDATA[Adult Turkey Vulture in Ashburnham, MA]]></caption>	
   </image>    
 </juiceboxgallery>
