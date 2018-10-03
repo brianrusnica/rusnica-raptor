@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+	galleryTitle="Raptor Flight Portfolio"
+>
+  <image imageURL="images/amke1.jpg"
+	thumbURL="thumbs/amke1.jpg"
+	linkURL="images/amke1.jpg"
+	linkTarget="_blank">
+	<title>American Kestrel - Newburyport, MA</title>
+	<caption><![CDATA[Adult male American Kestrel in Newburyport, MA]]></caption>	
+  </image>
+  <image imageURL="images/amke2.jpg"
+	thumbURL="thumbs/amke2.jpg"
+	linkURL="images/amke2.jpg"
+	linkTarget="_blank">
+	<title>American Kestrel - Medford, MA</title>
+	<caption><![CDATA[Adult female American Kestrel in Medford, MA]]></caption>	
+  </image>
+  <image imageURL="images/amke3.jpg"
+	thumbURL="thumbs/amke3.jpg"
+	linkURL="images/amke3.jpg"
+	linkTarget="_blank">
+	<title>American Kestrel - Plum Island, MA</title>
+	<caption><![CDATA[Adult female American Kestrel in Plum Island, MA]]></caption>	
+  </image>
+  <image imageURL="images/baea1.jpg"
+	thumbURL="thumbs/baea1.jpg"
+	linkURL="images/baea1.jpg"
+	linkTarget="_blank">
+	<title>Bald Eagle - Waltham, MA</title>
+	<caption><![CDATA[Adult Bald Eagle in Waltham, MA]]></caption>	
+  </image>
+  <image imageURL="images/baea2.jpg"
+	thumbURL="thumbs/baea2.jpg"
+	linkURL="images/baea2.jpg"
+	linkTarget="_blank">
+	<title>Bald Eagle - Medford, MA</title>
+	<caption><![CDATA[Immature Bald Eagle in Medford, MA]]></caption>	
+  </image>  
+   <image imageURL="images/baea3.jpg"
+	thumbURL="thumbs/baea3.jpg"
+	linkURL="images/baea3.jpg"
+	linkTarget="_blank">
+	<title>Bald Eagle - Plum Island, MA</title>
+	<caption><![CDATA[Juvenile Bald Eagle in Plum Island, MA]]></caption>	
+  </image>   
+  <image imageURL="images/coha1.jpg"
+	thumbURL="thumbs/coha1.jpg"
+	linkURL="images/coha1.jpg"
+	linkTarget="_blank">
+	<title>Cooper's Hawk - Cambridge, MA</title>
+	<caption><![CDATA[An adult female Cooper's Hawk  in Cambridge, MA]]></caption>	
+  </image>   
+  <image imageURL="images/coha2.jpg"
+	thumbURL="thumbs/coha2.jpg"
+	linkURL="images/coha2.jpg"
+	linkTarget="_blank">
+	<title>Cooper's Hawk  - Cambridge, MA</title>
+	<caption><![CDATA[An adult female Cooper's Hawk  in Cambridge, MA]]></caption>	
+  </image>   
+  <image imageURL="images/feha1.jpg"
+	thumbURL="thumbs/feha1.jpg"
+	linkURL="images/feha1.jpg"
+	linkTarget="_blank">
+	<title>Ferruginous Hawk - Snowville, UT</title>
+	<caption><![CDATA[Adult light morph Ferruginous Hawk in Snowville, UT]]></caption>	
+  </image>   
+  <image imageURL="images/merl1.jpg"
+	thumbURL="thumbs/merl1.jpg"
+	linkURL="images/merl1.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Peterborough, NH</title>
+	<caption><![CDATA[Adult male Merlin in Peterborough, NH]]></caption>	
+  </image>   
+  <image imageURL="images/merl2.jpg"
+	thumbURL="thumbs/merl2.jpg"
+	linkURL="images/merl2.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Medford, MA</title>
+	<caption><![CDATA[Merlin in Medford, MA]]></caption>	
+  </image>     
+  <image imageURL="images/merl3.jpg"
+	thumbURL="thumbs/merl3.jpg"
+	linkURL="images/merl3.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Plum Island, MA</title>
+	<caption><![CDATA[Merlin in Plum Island, MA]]></caption>	
+  </image>   
+  <image imageURL="images/merl4.jpg"
+	thumbURL="thumbs/merl4.jpg"
+	linkURL="images/merl4.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Ashburnham, MA</title>
+	<caption><![CDATA[Merlin in Ashburnham, MA]]></caption>	
+  </image>   
+  <image imageURL="images/merl5.jpg"
+	thumbURL="thumbs/merl5.jpg"
+	linkURL="images/merl5.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Ashburnham, MA</title>
+	<caption><![CDATA[Merlin in Ashburnham, MA]]></caption>	
+  </image>   
+  <image imageURL="images/merl6.jpg"
+	thumbURL="thumbs/merl6.jpg"
+	linkURL="images/merl6.jpg"
+	linkTarget="_blank">
+	<title>Merlin - Ashburnham, MA</title>
+	<caption><![CDATA[Merlin in Ashburnham, MA]]></caption>	
+  </image>   
+  <image imageURL="images/noha1.jpg"
+	thumbURL="thumbs/noha1.jpg"
+	linkURL="images/noha1.jpg"
+	linkTarget="_blank">
+	<title>Northern Harrier - Concord, MA</title>
+	<caption><![CDATA[Juvenile female Northern Harrier in Concord, MA]]></caption>	
+  </image>    
+  <image imageURL="images/noha2.jpg"
+	thumbURL="thumbs/noha2.jpg"
+	linkURL="images/noha2.jpg"
+	linkTarget="_blank">
+	<title>Northern Harrier - Marshfield, MA</title>
+	<caption><![CDATA[Adult male Northern Harrier in Marshfield, MA]]></caption>	
+  </image>   
+  <image imageURL="images/noha3.jpg"
+	thumbURL="thumbs/noha3.jpg"
+	linkURL="images/noha3.jpg"
+	linkTarget="_blank">
+	<title>Northern Harrier - Marshfield, MA</title>
+	<caption><![CDATA[Adult male Northern Harrier in Marshfield, MA]]></caption>	
+  </image>   
+  <image imageURL="images/noha4.jpg"
+	thumbURL="thumbs/noha4.jpg"
+	linkURL="images/noha4.jpg"
+	linkTarget="_blank">
+	<title>Northern Harrier - Plum Island, MA</title>
+	<caption><![CDATA[Adult female Northern Harrier in Plum Island, MA]]></caption>	
+  </image>   
+  <image imageURL="images/noha5.jpg"
+	thumbURL="thumbs/noha5.jpg"
+	linkURL="images/noha5.jpg"
+	linkTarget="_blank">
+	<title>Northern Harrier - Howell, UT</title>
+	<caption><![CDATA[Adult male Northern Harrier in Howell, UT]]></caption>	
+  </image>   
+  <image imageURL="images/ospr1.jpg"
+	thumbURL="thumbs/ospr1.jpg"
+	linkURL="images/ospr1.jpg"
+	linkTarget="_blank">
+	<title>Osprey - Plum Island, MA</title>
+	<caption><![CDATA[Adult Osprey in Plum Island, MA]]></caption>	
+  </image>      
+  <image imageURL="images/ospr2.jpg"
+	thumbURL="thumbs/ospr2.jpg"
+	linkURL="images/ospr2.jpg"
+	linkTarget="_blank">
+	<title>Osprey - Boxboro, MA</title>
+	<caption><![CDATA[Adult Osprey in Boxboro, MA]]></caption>	
+  </image>
+  <image imageURL="images/ospr3.jpg"
+	thumbURL="thumbs/ospr3.jpg"
+	linkURL="images/ospr3.jpg"
+	linkTarget="_blank">
+	<title>Osprey - Sauvie Island, OR</title>
+	<caption><![CDATA[Adult Osprey in Sauvie Island, OR]]></caption>	
+  </image>
+  <image imageURL="images/pefa1.jpg"
+	thumbURL="thumbs/pefa1.jpg"
+	linkURL="images/pefa1.jpg"
+	linkTarget="_blank">
+	<title>Peregrine Falcon - Woburn, MA</title>
+	<caption><![CDATA[Adult female Peregrine Falcon in Woburn, MA]]></caption>	
+  </image>  
+  <image imageURL="images/prfa1.jpg"
+	thumbURL="thumbs/prfa1.jpg"
+	linkURL="images/prfa1.jpg"
+	linkTarget="_blank">
+	<title>Prairie Falcon - Snowville, UT</title>
+	<caption><![CDATA[Prairie Falcon in Snowville, UT]]></caption>	
+  </image>      
+  <image imageURL="images/rsha1.jpg"
+	thumbURL="thumbs/rsha1.jpg"
+	linkURL="images/rsha1.jpg"
+	linkTarget="_blank">
+	<title>Red-shouldered Hawk - Ashburnham, MA</title>
+	<caption><![CDATA[Juvenile Red-shouldered Hawk in Ashburnham, MA]]></caption>	
+  </image>
+  <image imageURL="images/rsha2.jpg"
+	thumbURL="thumbs/rsha2.jpg"
+	linkURL="images/rsha2.jpg"
+	linkTarget="_blank">
+	<title>Red-shouldered Hawk - Marshfield, MA</title>
+	<caption><![CDATA[Adult Red-shouldered Hawk in Marshfield, MA]]></caption>	
+  </image>
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>  
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>      
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>  
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>      
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>  
+  <image imageURL="images/FILE.jpg"
+	thumbURL="thumbs/FILE.jpg"
+	linkURL="images/FILE.jpg"
+	linkTarget="_blank">
+	<title>BIRD - LOCATION, MA</title>
+	<caption><![CDATA[Bird in LOCATION, MA]]></caption>	
+  </image>    
+</juiceboxgallery>
